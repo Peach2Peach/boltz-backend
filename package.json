@@ -76,7 +76,7 @@
     "@mattermost/types": "^9.4.0",
     "@vulpemventures/secp256k1-zkp": "^3.2.1",
     "async-lock": "^1.4.1",
-    "axios": "^1.6.7",
+    "axios": "^1.7.4",
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",
     "bitcoinjs-lib": "^6.1.5",
